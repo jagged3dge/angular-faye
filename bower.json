@@ -3,7 +3,7 @@
   "version": "0.2.1",
   "homepage": "https://github.com/monterail/angular-faye",
   "description": "Angular.js + Faye",
-  "main": "build/angular-faye.js",
+  "main": "build/angular-faye.min.js",
   "keywords": [
     "angular",
     "faye",
